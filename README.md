@@ -39,13 +39,16 @@ Clique no botão **"RESTART"** disponível na tela de game over para começar no
 
 ## 🎨 Sprites Utilizadas
 
-- 🐔 **Galinha:** <img src="sprites/galinha.png" height="80">
-- 🐺 **Lobo:** <img src="sprites/wolf%20(1).png" height="80">
-- 🦊 **Raposa:** <img src="sprites/raposa.png" height="80">
-- 🌽 **Milho:** <img src="sprites/milho2.webp" height="80">
-- 🥚 **Ovo:** <img src="sprites/egg.png" height="80">
-- 🥚 **Ovo Dourado:** <img src="sprites/ovoDourado.png" height="80">
-- 🥚 **Ovo Quebrado:** <img src="sprites/egg.png" height="80">
+| Sprite | Imagem |
+|:------:|:------:|
+| 🐔 **Galinha** | <img src="sprites/galinha.png" height="80"> |
+| 🐺 **Lobo** | <img src="sprites/wolf%20(1).png" height="80"> |
+| 🦊 **Raposa** | <img src="sprites/raposa.png" height="80"> |
+| 🌽 **Milho** | <img src="sprites/milho2.webp" height="80"> |
+| 🥚 **Ovo** | <img src="sprites/ovo.png" height="80"> |
+| 🥚 **Ovo Dourado** | <img src="sprites/ovoDourado.png" height="80"> |
+| 🥚 **Ovo Quebrado** | <img src="sprites/egg.png" height="80"> |
+
 
 ## 📋 Requisitos
 
