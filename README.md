@@ -1,7 +1,3 @@
-from pathlib import Path
-
-# Conteúdo do README.md
-readme_content = """
 # 🐔 A Fuga da Galinha
 
 ## 🎮 Descrição do Jogo
@@ -39,19 +35,17 @@ Clique no botão **"RESTART"** disponível na tela de game over para começar no
 ![Print da Tela Final do Jogo](sprites/telaFinal.jpeg)
 
 ## 🗄️ Prints do Banco de Dados
-
-*(Se você usa um banco para o ranking, adicione o print aqui)*  
 ![Print do Banco de Dados](sprites/bdAplicado.jpeg)
 
 ## 🎨 Sprites Utilizadas
 
-- 🐔 ![Galinha](sprites/galinha.png)
-- 🐺 ![Lobo](sprites/wolf%20(1).png)
-- 🦊 ![Raposa](sprites/raposa.png)
-- 🌽 ![Milho](sprites/milho2.webp)
-- 🥚 ![Ovo](sprites/egg.png)
-     ![Ovo Dourado](sprites/ovoDourado.png)
-     ![Ovo Quebrado](sprites/egg.png)
+- 🐔 **Galinha:** <img src="sprites/galinha.png" height="80">
+- 🐺 **Lobo:** <img src="sprites/wolf%20(1).png" height="80">
+- 🦊 **Raposa:** <img src="sprites/raposa.png" height="80">
+- 🌽 **Milho:** <img src="sprites/milho2.webp" height="80">
+- 🥚 **Ovo:** <img src="sprites/egg.png" height="80">
+- 🥚 **Ovo Dourado:** <img src="sprites/ovoDourado.png" height="80">
+- 🥚 **Ovo Quebrado:** <img src="sprites/egg.png" height="80">
 
 ## 📋 Requisitos
 
@@ -62,10 +56,3 @@ Clique no botão **"RESTART"** disponível na tela de game over para começar no
 
 **Júlia Moreira**  
 Projeto desenvolvido para fins educacionais.
-"""
-
-# Caminho do arquivo
-readme_path = Path("README.md")
-
-# Salvar o arquivo
-readme_path.write_text(readme_content, encoding="utf-8")
